@@ -17,3 +17,5 @@ Commit #8 durring squash activity
 Commit #9 rebase activity commit 1 for feature2
 
 Commit #10 rebase activity commit 2 for feature2
+
+no more commit after this line
